@@ -1,0 +1,11 @@
+D:\labs\_cs\dotnet-github-actions\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+D:\labs\_cs\dotnet-github-actions\PrimeService\bin\Debug\net8.0\PrimeService.dll
+D:\labs\_cs\dotnet-github-actions\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.dll
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+D:\labs\_cs\dotnet-github-actions\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
